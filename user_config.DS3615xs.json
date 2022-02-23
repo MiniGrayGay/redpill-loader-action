@@ -8,5 +8,13 @@
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
-  }
+  },
+  "extensions": [
+    "pocopico.mpt2sas",
+    "pocopico.mpt3sas",
+    "pocopico.thethorgroup.boot-wait",
+    "pocopico.r8169",
+    "pocopico.r8168",
+    "pocopico.r8101"
+  ]
 }
